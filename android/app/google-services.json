@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103067133434",
+    "project_id": "ifit2021-69c5e",
+    "storage_bucket": "ifit2021-69c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103067133434:android:3261e42e30a149694ff043",
+        "android_client_info": {
+          "package_name": "com.example.scool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103067133434-hrrgfskaoh7nt8akmp2mjjbhrk9pu7oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdgwBnqHUB9KQyze7lkz4zfat1MUc5BEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103067133434-hrrgfskaoh7nt8akmp2mjjbhrk9pu7oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

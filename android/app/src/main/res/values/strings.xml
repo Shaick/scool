@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ifit2021</string>
+    <string name="facebook_app_id">888108578639329</string>
+    <string name="fb_login_protocol_scheme">fb888108578639329</string>
+</resources>
